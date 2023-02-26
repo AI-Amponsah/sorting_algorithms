@@ -1,5 +1,5 @@
-#ifndef _MAIN_H
-#define _MAIN_H
+#ifndef SORT_HEADER
+#define SORT_HEADER
 #include <stdio.h>
 #include <stdlib.h>
 
